@@ -1,4 +1,4 @@
-<div id="header" align="center"> 
+use<div id="header" align="center"> 
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
    <div id="badges"> 
      <a href="https://www.linkedin.com/in/christopher-i-oni-21527a1a0">
@@ -57,7 +57,11 @@
   
  ### :fire: My Stats : 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaptainLeon445)](https://git.io/streak-stats)
+<img  
+    src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight"  
+ /> 
   
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainLeon445&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
  --- 
