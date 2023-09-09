@@ -1,4 +1,4 @@
-use<div id="header" align="center"> 
+<div id="header" align="center"> 
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
    <div id="badges"> 
      <a href="https://www.linkedin.com/in/christopher-i-oni-21527a1a0">
@@ -58,7 +58,7 @@ use<div id="header" align="center">
  ### :fire: My Stats : 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaptainLeon445)](https://git.io/streak-stats)
 <img  
-    src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight"  
+    src="https://github-readme-stats.vercel.app/api?username=CaptainLeon445&show_icons=true&theme=tokyonight"  
  /> 
   
  
