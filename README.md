@@ -65,6 +65,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainLeon445&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
  --- 
+### :fire: Top Languages : 
+ <figure><embed src="https://wakatime.com/share/@Captain_leon/f5af4804-aaeb-4197-925b-388f7741a40e.svg"></embed></figure>
   
  ### :writing_hand: Blog Posts : 
  <!-- BLOG-POST-LIST:START --> 
