@@ -66,7 +66,9 @@
   
  --- 
 ### :fire: Top Languages : 
- <figure><embed src="https://wakatime.com/share/@Captain_leon/f5af4804-aaeb-4197-925b-388f7741a40e.svg"></embed></figure>
+<img  
+    src="https://wakatime.com/share/@Captain_leon/f5af4804-aaeb-4197-925b-388f7741a40e.svg"  
+ /> 
   
  ### :writing_hand: Blog Posts : 
  <!-- BLOG-POST-LIST:START --> 
