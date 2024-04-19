@@ -68,7 +68,7 @@
 ### :fire: Top Languages : 
 <img  
     src="https://wakatime.com/share/@Captain_leon/f5af4804-aaeb-4197-925b-388f7741a40e.svg" 
-   height="400" width="800"
+   height="400" width="1200"
  /> 
   
  ### :writing_hand: Blog Posts : 
